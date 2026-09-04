@@ -1,0 +1,93 @@
+# Kilian Diaz Miranda — Información del portafolio
+
+## Perfil
+**Nombre:** Kilian Diaz Miranda
+**Título:** Ingeniero de Sistemas y Computación | Desarrollador de Software
+
+## Áreas de habilidades
+### 01 — Desarrollo Frontend
+Desarrollo de interfaces modernas y responsivas construidas con React, Vite, Next.js, JavaScript, TypeScript, Tailwind CSS y Bootstrap.
+
+**Tecnologías y conocimientos**
+- React
+- Vite
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS
+- Bootstrap
+- HTML5 / CSS3
+- Responsive & Accesibilidad UI
+
+### 02 — Desarrollo Backend
+Diseño de APIs, lógica de negocio y aplicaciones escalables con Node.js, PHP, Spring Boot y .NET.
+
+**Tecnologías y conocimientos**
+- Node.js (Express / Fastify)
+- PHP
+- Spring Boot (Java)
+- .NET / C#
+- Arquitectura RESTful & GraphQL
+- Microservicios & MVC
+- Autenticación & Seguridad (JWT, OAuth)
+
+### 03 — Desarrollo de Software
+Construcción de aplicaciones web, de escritorio y multiplataforma usando Python, Java, C# y C++.
+
+**Tecnologías y conocimientos**
+- Python
+- Java
+- C#
+- C++
+- Programación Orientada a Objetos (POO)
+- Estructuras de Datos & Algoritmos
+- Patrones de Diseño (GoF)
+
+### 04 — Gestión de Datos
+Diseño, administración y optimización de bases de datos relacionales y NoSQL usando phpMyAdmin, MySQL, MariaDB, PostgreSQL y MongoDB, junto con análisis de datos usando R y Power BI.
+
+**Tecnologías y conocimientos**
+- PostgreSQL
+- MySQL / MariaDB
+- MongoDB (NoSQL)
+- phpMyAdmin
+- Análisis de Datos con R
+- Power BI (Dashboards & ETL)
+- Modelado Relacional & Normalización
+- Indexación & Query Tuning
+
+### 05 — Cloud e Infraestructura
+Despliegue, administración, virtualización e infraestructura usando AWS, Microsoft Azure, Windows Server, Linux, Vercel, VMware y VirtualBox.
+
+**Tecnologías y conocimientos**
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Linux Server (Ubuntu / Debian)
+- Windows Server & AD
+- Vercel & CI/CD Pipelines
+- VMware & VirtualBox
+- Docker & Containerización
+- Redes y Protocolos de Comunicación
+
+### 06 — Inteligencia Artificial
+Integración de soluciones de IA generativa y automatización mediante ChatGPT, Claude y Gemini.
+
+**Tecnologías y conocimientos**
+- Google Gemini API
+- OpenAI ChatGPT API
+- Anthropic Claude API
+- Prompt Engineering & Structured Outputs
+- Automatización con IA
+- Embeddings & Búsqueda Semántica
+- Integración de Agentes y Tools
+
+## Integraciones externas
+- GitHub API pública para repositorios.
+- ORCID API pública para trabajos registrados.
+- Los datos externos se obtienen desde sus APIs y pueden conservarse temporalmente en `localStorage`.
+
+## Enlaces
+- [GitHub](https://github.com/KilianDiazMiranda)
+- [LinkedIn](https://www.linkedin.com/in/kiliandiazmiranda/)
+- [ORCID](https://orcid.org/0009-0008-5635-4111)
+- [Portafolio](https://www.kiliandiazmiranda.com/)
