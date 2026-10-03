@@ -1,0 +1,67 @@
+# Kilian Diaz Miranda
+
+> Ingeniero de Sistemas y Computación | Desarrollador Full Stack
+
+## Perfil
+Kilian Diaz Miranda desarrolla aplicaciones y soluciones web funcionales, eficientes y seguras. Su perfil abarca desarrollo full stack, bases de datos, pruebas automatizadas, infraestructura en la nube y herramientas de desarrollo.
+
+## Lenguajes
+Lenguajes utilizados para el desarrollo de aplicaciones web, automatizaciones y gestión de datos.
+
+* JavaScript
+* TypeScript
+* Java
+* Python
+* SQL
+
+## Front-End
+Desarrollo de aplicaciones web modernas, interfaces reactivas y componentes accesibles, visualmente atractivos y optimizados.
+
+* React
+* Vue.js
+* Vite
+* Next.js
+* Angular
+* Tailwind CSS
+* Bootstrap
+
+## Back-End
+Desarrollo de servicios y lógica del lado del servidor, creación de APIs REST y arquitecturas backend escalables.
+
+* Node.js
+* Express.js
+* NestJS
+* Spring Boot
+
+## Bases de Datos
+Modelado, diseño, administración y consulta de bases de datos relacionales y no relacionales, junto a herramientas de gestión.
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* MySQL Workbench
+
+## Pruebas y Cloud
+Diseño y ejecución de pruebas automatizadas para asegurar la confiabilidad del código, junto con despliegue e infraestructura en servicios en la nube.
+
+* Jest
+* Vitest
+* Playwright
+* AWS
+* Azure
+* Vercel
+* Cloudflare
+
+## Herramientas
+Entornos de desarrollo, sistemas de control de versiones, diseño de interfaces y administración de sistemas.
+
+* VS Code
+* WordPress
+* Figma
+* Git
+* Linux
+
+## Enlaces
+- [GitHub](https://github.com/KilianDiazMiranda)
+- [LinkedIn](https://www.linkedin.com/in/kiliandiazmiranda/)
+- [Portafolio](https://www.kiliandiazmiranda.com/)

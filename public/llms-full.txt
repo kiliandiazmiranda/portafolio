@@ -1,0 +1,77 @@
+# Kilian Diaz Miranda — Información del portafolio
+
+## Perfil
+**Nombre:** Kilian Diaz Miranda
+**Título:** Ingeniero de Sistemas y Computación | Desarrollador Full Stack
+
+## Áreas de habilidades
+### 01 — Lenguajes
+Lenguajes de programación y consulta utilizados para el desarrollo de aplicaciones web, automatizaciones y gestión de datos.
+
+**Tecnologías y conocimientos**
+- JavaScript
+- TypeScript
+- Java
+- Python
+- SQL
+
+### 02 — Front-End
+Desarrollo de aplicaciones web modernas, interfaces reactivas y componentes accesibles, visualmente atractivos y optimizados.
+
+**Tecnologías y conocimientos**
+- React
+- Vue.js
+- Vite
+- Next.js
+- Angular
+- Tailwind CSS
+- Bootstrap
+
+### 03 — Back-End
+Desarrollo de servicios y lógica del lado del servidor, creación de APIs REST y arquitecturas backend escalables.
+
+**Tecnologías y conocimientos**
+- Node.js
+- Express.js
+- NestJS
+- Spring Boot
+
+### 04 — Bases de Datos
+Modelado, diseño, administración y consulta de bases de datos relacionales y no relacionales, junto a herramientas de gestión.
+
+**Tecnologías y conocimientos**
+- MySQL
+- PostgreSQL
+- MongoDB
+- MySQL Workbench
+
+### 05 — Pruebas y Cloud
+Diseño y ejecución de pruebas automatizadas para asegurar la confiabilidad del código, junto con despliegue e infraestructura en servicios en la nube.
+
+**Tecnologías y conocimientos**
+- Jest
+- Vitest
+- Playwright
+- AWS
+- Azure
+- Vercel
+- Cloudflare
+
+### 06 — Herramientas
+Entornos de desarrollo, sistemas de control de versiones, diseño de interfaces y administración de sistemas.
+
+**Tecnologías y conocimientos**
+- VS Code
+- WordPress
+- Figma
+- Git
+- Linux
+
+## Integraciones externas
+- GitHub API pública para repositorios.
+- Los datos externos se obtienen desde sus APIs y pueden conservarse temporalmente en `localStorage`.
+
+## Enlaces
+- [GitHub](https://github.com/KilianDiazMiranda)
+- [LinkedIn](https://www.linkedin.com/in/kiliandiazmiranda/)
+- [Portafolio](https://www.kiliandiazmiranda.com/)
